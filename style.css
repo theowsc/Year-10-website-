@@ -1,2 +1,12 @@
 body{background-color: #dddd9b;
 }
+h1{
+    font-size: 70px;
+    font-family:Georgia;
+    color: rgb(86, 86, 61);
+}
+p{
+    font-size: 40px;
+    font-family:Georgia;
+    color: rgb(115, 115, 82);
+}
