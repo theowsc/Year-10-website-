@@ -10,3 +10,10 @@ p{
     font-family:Georgia;
     color: rgb(115, 115, 82);
 }
+.clickable {
+font-weight: bolder;
+text-decoration: none;
+color: rgb(93, 85, 75);
+font-size: 50px;
+font: rgb(186, 182, 145);
+}
