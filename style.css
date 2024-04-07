@@ -18,6 +18,15 @@ font-size: 30px;
 background-color: #b6b677;
 }
 
+.clickable2 {
+font-weight: bolder;
+text-decoration: none;
+color: rgb(93, 85, 75);
+font-size: 30px;
+background-color: #b6b677;
+float: right;
+    }
+
 .Right {
-text-align: center;
+text-align: Right;
 }
