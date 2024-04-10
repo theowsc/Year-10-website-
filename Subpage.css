@@ -1,19 +1,15 @@
-body{
-background-color: #dddd9b;
+body{background-color: #c7c789;
 }
-
 h1{
-font-size: 70px;
-font-family:Georgia;
-color: rgb(86, 86, 61);
+    font-size: 70px;
+    font-family:Georgia;
+    color: rgb(86, 86, 61);
 }
 p{
-font-size: 40px;
-font-family:Georgia;
-color: rgb(115, 115, 82);
+    font-size: 40px;
+    font-family:Georgia;
+    color: rgb(115, 115, 82);
 }
-
-
 .clickable {
 font-weight: bolder;
 text-decoration: none;
@@ -31,7 +27,9 @@ background-color: #b6b677;
 float: right;
     }
 
-.Right {
-text-align: Right;
+img {
+border-style: solid;
+border-radius: 10px;
+border-width: 6px;
+border-color: rgb(154, 148, 118);
 }
-
