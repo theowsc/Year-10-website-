@@ -34,6 +34,27 @@ border-width: 6px;
 border-color: rgb(154, 148, 118);
 }
 
+.button {
+    background-color: rgb(179, 173, 122);
+    border: none;
+    height: 50px;
+    width: 170px;
+    font-size: 25px;
+    font-family:Georgia;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 1s;
+    transition: color 0.7s;
+    transition: box-shadow 0.4s;
+    margin-left: 8px;
+    margin-right: 8px;
+    }
+    
+.button:hover {
+    background-color: rgb(131, 123, 88);
+    color: rgb(173, 167, 167);
+    box-shadow: 5px 5px 15px rgb(72, 71, 71);
+}
 .credit {
 font-size: 15px;
 }
